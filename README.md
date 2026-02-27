@@ -1,2 +1,2 @@
-# sojourn
+# Sojourn
 Sojourn Issues Page
